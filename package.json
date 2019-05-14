@@ -1,0 +1,18 @@
+{
+  "name": "host.nhent.ai",
+  "version": "1.0.0",
+  "description": "Landing Page host.nhent.ai",
+  "main": "server.js",
+  "dependencies": {
+    "pug": "*",
+  },
+  "scripts": {
+    "run": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/py7hon/host.nhent.ai.git"
+  },
+  "author": "Iqbal Rifai",
+  "homepage": "https://host.nhent.ai"
+}
